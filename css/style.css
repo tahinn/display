@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+font-family: 'Lato',
+sans-serif;
+
+    {
+    /*    margin:10;*/
+    padding: 0px;
+}
+
+.one1 {
+    background-color: cornflowerblue;
+    border: 1 px solid black;
+    outline-style: solid;
+    outline-color: darkturquoise;
+    outline-width: 15px;
+}
+
+.one2 {
+
+    border: 1 px solid black;
+    outline-style: dashed;
+    outline-color: #e00aa6;
+    outline-width: 15px;
+}
+
+.one3 {
+    background-color: blueviolet;
+    border: 1 px solid black;
+    outline-style: dotted;
+    outline-color: #0dea95;
+    outline-width: 15px;
+}
+
+.one4 {
+    background-color: aqua;
+    border: 1 px solid black;
+    outline-style: groove;
+    outline-color: #eaea0d;
+    outline-width: 15px;
+}
+
+.one5 {
+    background-color: blueviolet;
+    border: 1px solid black;
+    outline-style: inset;
+    outline-color: #ff762d;
+    outline-width: 15px;
+}
+
+.one6 {
+    /*    width:300px;*/
+    background-color: #ff150b;
+    margin: 50px 200px 50px 200px;
+    margin-top: 20px;
+    border: 10px solid black;
+
+}
+
+.one7 {
+    /*    width:300px;*/
+    background-color: #f211ba;
+    margin: 0px 200px 0px 0px;
+    margin-bottom: 10px;
+    border: 10px solid #5c98f8;
+
+}
+
+.one8 {
+    /*    width:300px;*/
+    background-color: #13010e;
+    margin: 0px 0px 0px 300px;
+    margin-left: 200px;
+    border: 10px solid #d80505;
+
+}
+
+.one9 {
+    /*    width:300px;*/
+    background-color: #0adb0a;
+    margin: 5px 30px 0px 20px;
+    margin-right: 200px;
+    border: 10px solid #eaea0d;
+}
+
+.square {
+
+    background-color: cadetblue;
+    width: 400px;
+    border: 6px solid black;
+    padding: 30px;
+
+}
+
+.square1 {
+    background-color: #f8044f;
+    width: 290px;
+    height: 0px;
+    padding: 40px;
+}
+
+.sabbir li1 {
+    background-color: #ff7437;
+    display: inline-block;
+    padding: 40px;
+    margin: 30px;
+    font-size: 80px;
+    border-radius: 60px;
+
+}
+
+.sabbir li2 {
+    background-color: #ff0076;
+    display: inline-block;
+    padding: 40px;
+    margin: 30px;
+    font-size: 80px;
+    border-radius: 60px;
+
+}
+
+.sabbir li3 {
+    background-color: #00e2ff;
+    display: inline-block;
+    padding: 40px;
+    margin: 30px;
+    font-size: 80px;
+    border-radius: 60px;
+
+}
+
+.sabbir li4 {
+    background-color: #00ff14;
+    display: inline-block;
+    padding: 40px;
+    margin: 30px;
+    font-size: 80px;
+    border-radius: 60px;
+
+}
